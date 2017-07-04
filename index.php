@@ -1,6 +1,16 @@
 <?php
 //No tan opcionallllllllll
 //no tan opcionalllllllll2222222
+
+/*
+//borrameeeeeee
+//borrameeeeeee
+//borrameeeeeee
+//borrameeeeeee
+//borrameeeeeee
+//borrameeeeeee
+//borrameeeeeee
+*/
 session_start();
 define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 define('APP', ROOT );
