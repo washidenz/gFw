@@ -1,4 +1,5 @@
 <?php
+//No tan opcionallllllllll
 session_start();
 define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 define('APP', ROOT );
