@@ -1,5 +1,4 @@
 <?php
-//Nunca dudé de mi duda.XD
 class Application
 {
 	private $url_module = null;
