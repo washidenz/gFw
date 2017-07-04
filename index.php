@@ -1,5 +1,6 @@
 <?php
 //No tan opcionallllllllll
+//no tan opcionalllllllll2222222
 session_start();
 define('ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 define('APP', ROOT );
